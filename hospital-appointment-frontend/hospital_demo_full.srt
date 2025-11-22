@@ -1,0 +1,131 @@
+1
+00:00:00,000 --> 00:00:05,000
+Opening the hospital appointment system login page.
+
+2
+00:00:05,000 --> 00:00:10,000
+Filling in the email address for patient login.
+
+3
+00:00:10,000 --> 00:00:15,000
+Entering the password securely.
+
+4
+00:00:15,000 --> 00:00:20,000
+Submitting the login form to authenticate.
+
+5
+00:00:20,000 --> 00:00:25,000
+Login successful. Redirecting to patient dashboard.
+
+6
+00:00:25,000 --> 00:00:30,000
+Viewing current appointments on the dashboard.
+
+7
+00:00:30,000 --> 00:00:35,000
+Navigating to Departments section.
+
+8
+00:00:35,000 --> 00:00:40,000
+Viewing existing departments in the system.
+
+9
+00:00:40,000 --> 00:00:45,000
+Going to Doctors section.
+
+10
+00:00:45,000 --> 00:00:50,000
+Clicking Add Doctor button.
+
+11
+00:00:50,000 --> 00:00:55,000
+Entering doctor name and details.
+
+12
+00:00:55,000 --> 00:01:00,000
+Selecting department for the doctor.
+
+13
+00:01:00,000 --> 00:01:05,000
+Entering phone number and contact information.
+
+14
+00:01:05,000 --> 00:01:10,000
+Creating doctor record in the system.
+
+15
+00:01:10,000 --> 00:01:15,000
+Doctor added successfully to the database.
+
+16
+00:01:15,000 --> 00:01:20,000
+Navigating to Patients section.
+
+17
+00:01:20,000 --> 00:01:25,000
+Clicking Add Patient button.
+
+18
+00:01:25,000 --> 00:01:30,000
+Entering patient name and personal details.
+
+19
+00:01:30,000 --> 00:01:35,000
+Setting patient age and date of birth.
+
+20
+00:01:35,000 --> 00:01:40,000
+Entering phone number for patient contact.
+
+21
+00:01:40,000 --> 00:01:45,000
+Creating patient record in the system.
+
+22
+00:01:45,000 --> 00:01:50,000
+Patient registered successfully.
+
+23
+00:01:50,000 --> 00:01:55,000
+Going to Appointments section.
+
+24
+00:01:55,000 --> 00:02:00,000
+Clicking Book Appointment button.
+
+25
+00:02:00,000 --> 00:02:05,000
+Selecting doctor for the appointment.
+
+26
+00:02:05,000 --> 00:02:10,000
+Selecting patient for the appointment.
+
+27
+00:02:10,000 --> 00:02:15,000
+Setting appointment date and time.
+
+28
+00:02:15,000 --> 00:02:20,000
+Entering visit reason and notes.
+
+29
+00:02:20,000 --> 00:02:25,000
+Booking appointment in the system.
+
+30
+00:02:25,000 --> 00:02:30,000
+Appointment created successfully.
+
+31
+00:02:30,000 --> 00:02:35,000
+Returning to Dashboard.
+
+32
+00:02:35,000 --> 00:02:40,000
+Viewing updated statistics and summary.
+
+33
+00:02:40,000 --> 00:02:45,000
+Demo complete. Thank you for watching.

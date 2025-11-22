@@ -1,0 +1,51 @@
+1
+00:00:00,000 --> 00:00:04,000
+Opening the hospital appointment system login page.
+
+2
+00:00:04,000 --> 00:00:07,000
+Filling in the email address for patient login.
+
+3
+00:00:07,000 --> 00:00:10,000
+Entering the password securely.
+
+4
+00:00:10,000 --> 00:00:13,000
+Submitting the login form to authenticate.
+
+5
+00:00:13,000 --> 00:00:16,000
+Login successful. Redirecting to patient dashboard.
+
+6
+00:00:16,000 --> 00:00:19,000
+Viewing current appointments on the dashboard.
+
+7
+00:00:19,000 --> 00:00:22,000
+Clicking on Book New Appointment button.
+
+8
+00:00:22,000 --> 00:00:25,000
+Selecting the medical department from dropdown.
+
+9
+00:00:25,000 --> 00:00:28,000
+Choosing an available doctor for the appointment.
+
+10
+00:00:28,000 --> 00:00:31,000
+Picking the appointment date and time.
+
+11
+00:00:31,000 --> 00:00:34,000
+Submitting the appointment booking form.
+
+12
+00:00:34,000 --> 00:00:37,000
+Appointment created successfully. Returning to dashboard.
+
+13
+00:00:37,000 --> 00:00:40,000
+Verifying the new appointment appears in the list.

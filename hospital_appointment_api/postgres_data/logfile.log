@@ -1,0 +1,35 @@
+2025-11-22 01:01:12.652 +03 [10820] LOG:  starting PostgreSQL 18.0 on x86_64-windows, compiled by msvc-19.44.35217, 64-bit
+2025-11-22 01:01:12.654 +03 [10820] LOG:  listening on IPv6 address "::", port 5432
+2025-11-22 01:01:12.654 +03 [10820] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+2025-11-22 01:01:12.717 +03 [6784] LOG:  database system was shut down at 2025-11-22 01:01:06 +03
+2025-11-22 01:01:12.729 +03 [10820] LOG:  database system is ready to accept connections
+2025-11-22 01:03:22.548 +03 [10348] LOG:  starting PostgreSQL 18.0 on x86_64-windows, compiled by msvc-19.44.35217, 64-bit
+2025-11-22 01:03:22.549 +03 [10348] LOG:  listening on IPv6 address "::", port 5432
+2025-11-22 01:03:22.549 +03 [10348] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+2025-11-22 01:03:22.650 +03 [8972] LOG:  database system was interrupted; last known up at 2025-11-22 01:01:12 +03
+2025-11-22 01:03:29.024 +03 [8972] LOG:  could not open file "./logfile.log": sharing violation
+2025-11-22 01:03:29.024 +03 [8972] DETAIL:  Continuing to retry for 30 seconds.
+2025-11-22 01:03:29.024 +03 [8972] HINT:  You might have antivirus, backup, or similar software interfering with the database system.
+2025-11-22 01:03:56.202 +03 [8972] LOG:  syncing data directory (fsync), elapsed time: 33.55 s, current path: ./pg_commit_ts
+2025-11-22 01:03:56.233 +03 [8972] LOG:  database system was not properly shut down; automatic recovery in progress
+2025-11-22 01:03:56.241 +03 [8972] LOG:  redo starts at 0/17F1540
+2025-11-22 01:03:56.249 +03 [8972] LOG:  invalid record length at 0/1844A48: expected at least 24, got 0
+2025-11-22 01:03:56.249 +03 [8972] LOG:  redo done at 0/1844A10 system usage: CPU: user: 0.00 s, system: 0.01 s, elapsed: 0.00 s
+2025-11-22 01:03:56.259 +03 [16752] LOG:  checkpoint starting: end-of-recovery immediate wait
+2025-11-22 01:03:56.308 +03 [16752] LOG:  checkpoint complete: wrote 43 buffers (0.3%), wrote 3 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.007 s, sync=0.024 s, total=0.055 s; sync files=11, longest=0.004 s, average=0.003 s; distance=333 kB, estimate=333 kB; lsn=0/1844A48, redo lsn=0/1844A48
+2025-11-22 01:03:56.323 +03 [10348] LOG:  database system is ready to accept connections
+2025-11-22 01:04:44.663 +03 [10348] LOG:  received SIGHUP, reloading configuration files
+2025-11-22 01:08:56.686 +03 [16752] LOG:  checkpoint starting: time
+2025-11-22 01:12:37.105 +03 [16752] LOG:  checkpoint complete: wrote 2034 buffers (12.4%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 1 recycled; write=219.808 s, sync=0.592 s, total=220.419 s; sync files=640, longest=0.023 s, average=0.001 s; distance=9542 kB, estimate=9542 kB; lsn=0/2197CF8, redo lsn=0/21963A8
+2025-11-22 01:13:08.265 +03 [20208] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-22 16:38:17.231 +03 [16752] LOG:  checkpoint starting: time
+2025-11-22 16:38:17.468 +03 [16752] LOG:  checkpoint complete: wrote 2 buffers (0.0%), wrote 0 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.213 s, sync=0.004 s, total=0.239 s; sync files=2, longest=0.003 s, average=0.002 s; distance=6 kB, estimate=8588 kB; lsn=0/2197F50, redo lsn=0/2197EF8
+2025-11-22 17:08:17.518 +03 [16752] LOG:  checkpoint starting: time
+2025-11-22 17:08:19.050 +03 [16752] LOG:  checkpoint complete: wrote 14 buffers (0.1%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=1.503 s, sync=0.013 s, total=1.533 s; sync files=11, longest=0.003 s, average=0.002 s; distance=2 kB, estimate=7730 kB; lsn=0/2198AF8, redo lsn=0/2198AA0
+2025-11-22 20:40:17.273 +03 [16752] LOG:  checkpoint starting: time
+2025-11-22 20:40:18.250 +03 [16752] LOG:  checkpoint complete: wrote 9 buffers (0.1%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.950 s, sync=0.009 s, total=0.978 s; sync files=10, longest=0.002 s, average=0.001 s; distance=2 kB, estimate=6957 kB; lsn=0/2199350, redo lsn=0/21992F8
+2025-11-22 21:02:22.145 +03 [16752] LOG:  checkpoint starting: time
+2025-11-22 21:02:23.132 +03 [16752] LOG:  checkpoint complete: wrote 9 buffers (0.1%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.960 s, sync=0.015 s, total=0.987 s; sync files=10, longest=0.004 s, average=0.002 s; distance=2 kB, estimate=6261 kB; lsn=0/2199C70, redo lsn=0/2199C18
+2025-11-22 21:17:22.146 +03 [16752] LOG:  checkpoint starting: time
+2025-11-22 21:17:23.181 +03 [16752] LOG:  checkpoint complete: wrote 9 buffers (0.1%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=1.005 s, sync=0.014 s, total=1.036 s; sync files=10, longest=0.004 s, average=0.002 s; distance=2 kB, estimate=5635 kB; lsn=0/219A648, redo lsn=0/219A5F0

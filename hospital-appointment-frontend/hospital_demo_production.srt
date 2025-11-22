@@ -1,0 +1,59 @@
+1
+00:00:00,000 --> 00:00:04,000
+Opening the hospital appointment system.
+
+2
+00:00:04,000 --> 00:00:08,000
+Entering email address.
+
+3
+00:00:08,000 --> 00:00:12,000
+Entering password.
+
+4
+00:00:12,000 --> 00:00:16,000
+Clicking login button.
+
+5
+00:00:16,000 --> 00:00:20,000
+Login successful. Dashboard loaded.
+
+6
+00:00:20,000 --> 00:00:24,000
+Viewing current appointments.
+
+7
+00:00:24,000 --> 00:00:28,000
+Clicking Book New Appointment.
+
+8
+00:00:28,000 --> 00:00:32,000
+Selecting department.
+
+9
+00:00:32,000 --> 00:00:36,000
+Selecting doctor.
+
+10
+00:00:36,000 --> 00:00:40,000
+Entering appointment date.
+
+11
+00:00:40,000 --> 00:00:44,000
+Entering appointment time.
+
+12
+00:00:44,000 --> 00:00:48,000
+Submitting appointment form.
+
+13
+00:00:48,000 --> 00:00:52,000
+Appointment created successfully.
+
+14
+00:00:52,000 --> 00:00:56,000
+Viewing appointment details on dashboard.
+
+15
+00:00:56,000 --> 00:01:00,000
+Demo complete.
