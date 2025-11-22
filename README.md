@@ -2,7 +2,8 @@
 
 A full-stack hospital appointment management system built with **Rails 8 API** backend and **React (Vite)** frontend, featuring comprehensive testing, automated demo video generation, and professional UI/UX design.
 
-##[Demo Video] https://youtu.be/8VWnvhlfwjI
+## 🎬 Demo Video
+👉 **[Watch on YouTube](https://youtu.be/8VWnvhlfwjI)**  
 
 ---
 
